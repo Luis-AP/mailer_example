@@ -1,6 +1,6 @@
 from google_email.email_receiver import EmailReceiver
 from google_email.email_message import EmailMessage
-from google_email.email_receiver import EmailReceiver
+from google_email.email_client import EmailClient
 
 
 def send_email():
